@@ -3,8 +3,8 @@
 <p><div class="toc">
 <ul>
 <li><a href="#wiki-ubuntu">Ubuntu</a></li>
-<li><a href="#wiki-ubuntu">Debian</a></li>
-<li><a href="#wiki-ubuntu">Fedora</a></li>
+<li><a href="#wiki-debian">Debian</a></li>
+<li><a href="#wiki-fedora">Fedora</a></li>
 <li><a href="#wiki-archlinux">Arch Linux</a></li>
 </ul>
 </p>
